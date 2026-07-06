@@ -1,6 +1,6 @@
 {
-    "name": "Evaluación Criterial Multimateria",
-    "short_name": "EvalCriterial",
+    "name": "Evaluación Criterial Multimateria V2",
+    "short_name": "EvalCritMultiMat",
     "description": "Aplicación de evaluación criterial multidisciplinar para gestionar actividades, calificaciones y rúbricas por materias.",
     "start_url": "./index.html",
     "scope": "./",
